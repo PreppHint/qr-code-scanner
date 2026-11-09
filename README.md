@@ -1,19 +1,8 @@
-# QR Code Scanner - From Image & Webcam
+# QR Code Scanner (Offline)
 
-QR Code Scanner is a fast, easy-to-use browser tool that lets you scan QR codes from both images and your webcam. No downloads or installations required—just a simple, quick solution for decoding QR codes instantly.
+QR Code Scanner (Offline) is a fast, private, and easy-to-use Chrome extension that lets you scan and read QR codes directly in your browser without an internet connection. You can scan QR codes from any webpage, upload images from your device, or simply right-click a QR code image to decode it instantly. The extension also includes scan history, favorites, smart content detection, and one-click actions to copy or open scanned results. With complete offline functionality, all your scan data stays locally on your device, ensuring a secure and private QR code scanning experience.
 
-Demo: [QR Code Scanner](https://educatefarm.in/qr-code-scanner)
+Live Demo:- [QR Code Scanner (Offline)](https://chromewebstore.google.com/detail/qr-code-scanner-%E2%80%93-offline/iijjeeipjfmhbmnanmmggfpalbeeacdl?authuser=0&hl=en)
 
-![Screenshot Capture - 2024-10-20 - 23-41-32](https://github.com/user-attachments/assets/f1565a27-2cff-407c-8a99-9edc68a7f290)
-
-![Screenshot Capture - 2024-10-20 - 23-41-45](https://github.com/user-attachments/assets/ff74def7-569a-4be9-bd0e-c02eaeef758a)
-
-- Image Scanning: Upload any image containing a QR code, and the tool will instantly decode the information for you.
-
-* Webcam Scanning: Use your device’s webcam to scan QR codes in real time—perfect for quick access on the go.
-
-+ Fast and Accurate: The scanner provides reliable results within seconds, making it ideal for both personal and professional use.
-
-- No Setup Required: Use the tool directly from your browser without the need for additional apps or installations.
-
-Upgrade your experience with this quick, reliable QR code scanner and access information effortlessly!
+## Screenshot
+<img width="1239" height="647" alt="Screenshot 2026-11-09 160701" src="https://github.com/user-attachments/assets/6647f2d1-175d-43ae-a5fe-bccab53714a6" />
